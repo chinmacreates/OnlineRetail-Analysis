@@ -1,8 +1,6 @@
 # OnlineRetail-Analysis
 Sales performance analysis using SQL and Power BI on real retail data
-Your README.md (This Is the Star)
 
-Here’s a ready-to-use structure — adapt the wording to your voice.
 
 📊 Online Retail Sales Analysis – France
 📌 Project Overview
