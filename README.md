@@ -2,8 +2,8 @@
 Sales performance analysis using SQL and Power BI on real retail data
 
 
-📊 Online Retail Sales Analysis – France
-📌 Project Overview
+ Online Retail Sales Analysis – France
+ Project Overview
 
 This project analyzes transactional retail data to identify bestselling products and peak purchasing periods in France. The goal is to demonstrate a real-world analytics workflow using SQL for data preparation and Power BI for visualization.
 
